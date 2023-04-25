@@ -1,0 +1,7 @@
+print(5+5)
+print(5-8)
+print(5//2)
+print(5*2)
+print(2**3)
+print(5/2)
+print("Hola mundo")
